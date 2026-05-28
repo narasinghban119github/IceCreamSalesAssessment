@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\bin\Debug\net10.0\IceCreamSalesAssessment.exe
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\bin\Debug\net10.0\IceCreamSalesAssessment.deps.json
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\bin\Debug\net10.0\IceCreamSalesAssessment.runtimeconfig.json
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\bin\Debug\net10.0\IceCreamSalesAssessment.dll
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\bin\Debug\net10.0\IceCreamSalesAssessment.pdb
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.dll
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\refint\IceCreamSalesAssessment.dll
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.pdb
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\IceCreamSalesAssessment.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\IceCreamSalesAssessment\IceCreamSalesAssessment\obj\Debug\net10.0\ref\IceCreamSalesAssessment.dll
